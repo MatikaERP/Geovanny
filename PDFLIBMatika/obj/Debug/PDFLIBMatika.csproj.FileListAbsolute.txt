@@ -1,0 +1,13 @@
+C:\Users\wigam\source\repos\PDFLIBMatika\bin\Debug\gsdll32.dll
+C:\Users\wigam\source\repos\PDFLIBMatika\bin\Debug\gsdll64.dll
+C:\Users\wigam\source\repos\PDFLIBMatika\bin\Debug\PDFLIBMatika.dll
+C:\Users\wigam\source\repos\PDFLIBMatika\bin\Debug\PDFLIBMatika.pdb
+C:\Users\wigam\source\repos\PDFLIBMatika\bin\Debug\Ghostscript.NET.dll
+C:\Users\wigam\source\repos\PDFLIBMatika\bin\Debug\log4net.dll
+C:\Users\wigam\source\repos\PDFLIBMatika\bin\Debug\Ghostscript.NET.xml
+C:\Users\wigam\source\repos\PDFLIBMatika\bin\Debug\log4net.xml
+C:\Users\wigam\source\repos\PDFLIBMatika\obj\Debug\PDFLIBMatika.csproj.AssemblyReference.cache
+C:\Users\wigam\source\repos\PDFLIBMatika\obj\Debug\PDFLIBMatika.csproj.CoreCompileInputs.cache
+C:\Users\wigam\source\repos\PDFLIBMatika\obj\Debug\PDFLIBMatika.csproj.CopyComplete
+C:\Users\wigam\source\repos\PDFLIBMatika\obj\Debug\PDFLIBMatika.dll
+C:\Users\wigam\source\repos\PDFLIBMatika\obj\Debug\PDFLIBMatika.pdb
