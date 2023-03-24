@@ -1,4 +1,4 @@
-# Proyectos Matika C#
+##Proyectos Matika C#
 
 El proyecto **ClassGX**  utiliza la libreria CloseXML para la generación de Excel con diferente métodos para el formato a celdas, entre otras.
 
