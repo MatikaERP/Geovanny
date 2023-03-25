@@ -32,8 +32,9 @@ namespace PDFToJPG
             string binPath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
 
             log.Info("binPath " + binPath);
-            logger.Log("binPath " + binPath);
-            logger.Log("Environment.Is64BitProcess " + Environment.Is64BitProcess);
+            log.Info("binPath " + binPath);
+            log.Info("Environment.Is64BitProcess " + Environment.Is64BitProcess);
+            log.Info("options.Dpi " + options.Dpi);
 
             Console.WriteLine("binPath " + binPath);
       
