@@ -1,0 +1,6 @@
+C:\Users\wigam\Downloads\FlexStringComparator\bin\Debug\FlexStringComparator.dll
+C:\Users\wigam\Downloads\FlexStringComparator\bin\Debug\FlexStringComparator.pdb
+C:\Users\wigam\Downloads\FlexStringComparator\obj\Debug\FlexStringComparator.csproj.AssemblyReference.cache
+C:\Users\wigam\Downloads\FlexStringComparator\obj\Debug\FlexStringComparator.csproj.CoreCompileInputs.cache
+C:\Users\wigam\Downloads\FlexStringComparator\obj\Debug\FlexStringComparator.dll
+C:\Users\wigam\Downloads\FlexStringComparator\obj\Debug\FlexStringComparator.pdb
